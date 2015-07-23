@@ -1,0 +1,27 @@
+#ifndef INCLUDE_H
+#define INCLUDE_H
+#include <fstream.h>
+#include <conio.h>
+#include <string.h>
+#include <dos.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <graphics.h>
+#include <math.h>
+#include <ctype.h>
+#include "palash\include\keycode.h"
+#include "palash\include\strfun.h"
+#include "palash\include\button.h"
+#include "palash\include\label.h"
+#include "palash\include\exp.h"
+#include "palash\include\textbox.h"
+#include "palash\include\image.h"
+#include "palash\include\sort.h"
+#include "palash\include\fig.h"
+#include "palash\include\shm.h"
+#include "palash\include\field.h"
+#include "palash\include\pong.h"
+#include "palash\include\snake.h"
+#include "palash\include\graph.h"
+#include "palash\include\tic.h"
+#endif
